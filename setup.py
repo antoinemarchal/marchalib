@@ -9,7 +9,7 @@ with open('LICENSE') as f:
 
 setup(
     name='marchalib',
-    version='0.1.7',
+    version='0.1.8',
     description='A. Marchal library',
     long_description=readme,
     classifiers=[
